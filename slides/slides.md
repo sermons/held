@@ -17,15 +17,16 @@ if we are in our **right mind**, it is for **you**.
 
 [14](# "ref")
 For the **love** of Christ **controls** us,  <br>
-because we have concluded this:  <br>
-that one has **died** for all,  <br>
-therefore all have died; 
+because we have concluded this:
 
 [2 Corinthians 5:13-15 (p.1/2) (ESV)](# "ref")
 
 ---
+that **one** has died for all,  <br>
+therefore **all** have died; 
+
 [15](# "ref")
-and he died for all, that those who **live**  <br>
+and he **died** for all, that those who live  <br>
 might no longer live for **themselves**  <br>
 but for **him** who for their sake  <br>
 **died** and was **raised**.
@@ -37,13 +38,13 @@ but for **him** who for their sake  <br>
 
 ---
 For the **love** of Christ **compels** us <br>
-(<i>*συνέχει*</i>: holds together)
+<i>(*συνέχει*: holds together)</i>
 
 [2 Corinthians 5:14 (NKJV)](# "ref")
 
 ---
 If we are **beside ourselves** <br>
-(<i>*ἐξέστημεν*</i>: ecstasy, insanity)
+<i>(*ἐξέστημεν*: ecstasy, insanity)</i>
 
 [2 Corinthians 5:13a (ESV)](# "ref")
 
@@ -82,7 +83,7 @@ it is the **power of God**.
 
 ---
 If we are in our **right mind**<br>
-(<i>*σωφρονοῦμεν*</i>: salvation, sober)
+<i>(*σωφρονοῦμεν*: salvation, sober)</i>
 
 [2 Corinthians 5:13b (ESV)](# "ref")
 
@@ -112,5 +113,5 @@ If we are in our **right mind**<br>
 
 
 ---
-<!-- .slide: background="white" -->
+<!-- .slide: data-background="white" -->
 # What **holds** you together? 
