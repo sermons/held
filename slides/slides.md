@@ -5,22 +5,10 @@
 [Ryan Hutton](https://unsplash.com/photos/Jztmx9yqjBw "caption")
 
 >>>
-+ bg: grew up in **Chr school** (BCS), K-8
-+ **comfortable** environment
-  + took for **granted**
-+ still, always **wondered**:
-
----
-<!-- .slide: background="white" -->
-# **Why** am I in school?
-
->>>
-+ **parents** force?
-  + get into **univ**, future **job**?
-+ why pay **tuition**? **value** of edu?
-+ school **theme** verse in 2Cor5:
-  + not just about **school**
-  + but **life**: what is our **purpose**?
++ God's **love** for you is **greater** than:
+  + any **obstacle** before you
+  + any **sin** within you
+  + any **ambition** you could have for yourself
 
 ---
 [13](# "ref")
@@ -98,6 +86,11 @@ If we are in our **right mind**<br>
 + "right mind": **saved** thinking (salvation)
   + sober, considered
   + why **school**? skills, excellence
+
+
+---
+<!-- .slide: background="white" -->
+# What **holds** you together? 
 
 ---
 + for **you**: to serve others
