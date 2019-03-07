@@ -36,6 +36,12 @@ but for **him** who for their sake  <br>
 + 2 **competing** forces:
 
 ---
+For the **love** of Christ **compels** us <br>
+(<i>*συνέχει*</i>: holds together)
+
+[2 Corinthians 5:14 (NKJV)](# "ref")
+
+---
 If we are **beside ourselves** <br>
 (<i>*ἐξέστημεν*</i>: ecstasy, insanity)
 
@@ -80,19 +86,14 @@ If we are in our **right mind**<br>
 
 [2 Corinthians 5:13b (ESV)](# "ref")
 
-
-
 >>>
 + "right mind": **saved** thinking (salvation)
   + sober, considered
   + why **school**? skills, excellence
 
-
 ---
-<!-- .slide: background="white" -->
-# What **holds** you together? 
 
----
+>>>
 + for **you**: to serve others
   + equip to **teach**, encourage
 + **controls**: holds together
@@ -108,3 +109,8 @@ If we are in our **right mind**<br>
   + **purpose** on the playground
   + not to **grab** best activities for self
   + but to show Christ's **love** to others
+
+
+---
+<!-- .slide: background="white" -->
+# What **holds** you together? 
