@@ -64,10 +64,10 @@ but for **him** who for their sake  <br>
 
 ---
 <!-- .slide: <%= bg("unsplash-CPPFtCHY6mo-pray_bible.jpg") %> -->
-For Christ's love **compels** us <br>
+For the love of Christ **controls** us <br>
 <i>(*συνέχει*: holds together)</i>
 
-[2 Corinthians 5:14 (NIV)](# "ref")
+[2 Corinthians 5:14 (ESV)](# "ref")
 
 >>>
 + not **compel** (push, motion)
@@ -99,9 +99,9 @@ that means **fruitful labor** for me.
 
 ---
 <!-- .slide: <%= bg("unsplash-CPPFtCHY6mo-pray_bible.jpg") %> -->
-For Christ's love **compels** us
+For the love of Christ **controls** us
 
-[2 Corinthians 5:14 (NIV)](# "ref")
+[2 Corinthians 5:14 (ESV)](# "ref")
 
 >>>
 + **what** two things are held together?
@@ -110,7 +110,7 @@ For Christ's love **compels** us
 ---
 <!-- .slide: <%= bg("Cerquozzi-John_Baptist.jpg") %> -->
 If we are **beside ourselves**, it is for God <br>
-<i>(*ἐξέστημεν*: ecstasy, insanity)</i>
+<i>(*ἐξέστημεν*: ecstatic, insane)</i>
 
 [2 Corinthians 5:13a (ESV)](# "ref")
 [Michelangelo Cerquozzi, <br>"Saint John the Baptist Preaching in the Wilderness"](https://www.artuk.org/discover/artworks/saint-john-the-baptist-preaching-in-the-wilderness-2822 "caption")
@@ -210,9 +210,9 @@ it is the **power of God**.
 
 ---
 <!-- .slide: <%= bg("unsplash-CPPFtCHY6mo-pray_bible.jpg") %> -->
-For Christ's love **compels** us
+For the love of Christ **controls** us
 
-[2 Corinthians 5:14 (NIV)](# "ref")
+[2 Corinthians 5:14 (ESV)](# "ref")
 
 >>>
 + **held together** in two ways:
