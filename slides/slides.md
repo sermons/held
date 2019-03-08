@@ -1,8 +1,8 @@
-<!-- .slide: <%= bg("unsplash-CPPFtCHY6mo-pray_bible.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-74TufExdP3Y-sunlit-road.jpg") %> id="title" -->
 # Held Together
 ## 2 Corinthians 5:13-15
 
-[Olivia Snow](https://unsplash.com/photos/CPPFtCHY6mo "caption")
+[Chuckanut Mountain, US.  Patrick Fore](https://unsplash.com/photos/74TufExdP3Y "caption")
 
 >>>
 + God's **love** for you is **greater** than:
@@ -18,7 +18,7 @@
 + school **theme** verse:
 
 ---
-<!-- .slide: <%= bg("unsplash-CPPFtCHY6mo-pray_bible.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-74TufExdP3Y-sunlit-road.jpg") %> -->
 For **Christ's love** compels us
 
 [2 Corinthians 5:14 (NIV)](# "ref")
@@ -60,11 +60,12 @@ but for **him** who for their sake  <br>
 + how does this kind of love **change** me?
 
 ---
-<!-- .slide: <%= bg("unsplash-CPPFtCHY6mo-pray_bible.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-2PODhmrvLik-heart_sunset.jpg") %> -->
 For Christ's love **compels** us <br>
 <i>(*συνέχει*: holds together)</i>
 
 [2 Corinthians 5:14 (NIV)](# "ref")
+[Mayur Gala](https://unsplash.com/photos/2PODhmrvLik "caption")
 
 >>>
 + not **compel** (push, motion)
@@ -74,6 +75,7 @@ For Christ's love **compels** us <br>
 + cf Phil 1 **hard-pressed** (v23):
 
 ---
+<!-- .slide: <%= bg("unsplash-gzhyKEo_cbU-alone_window.jpg") %> -->
 [23](# "ref")
 I am **hard pressed** between the two.
 
@@ -85,6 +87,7 @@ If I am to **live** in the flesh, <br>
 that means **fruitful labor** for me. 
 
 [Philippians 1:23,22 (ESV)](# "ref")
+[Noah Silliman](https://unsplash.com/photos/gzhyKEo_cbU "caption")
 
 >>>
 + dying: be w/**Jesus**
@@ -93,7 +96,7 @@ that means **fruitful labor** for me.
   + but **held together**
 
 ---
-<!-- .slide: <%= bg("unsplash-CPPFtCHY6mo-pray_bible.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-2PODhmrvLik-heart_sunset.jpg") %> -->
 For Christ's love **compels** us <br>
 <i>(*συνέχει*: holds together)</i>
 
@@ -104,10 +107,12 @@ For Christ's love **compels** us <br>
 + on the **one hand**:
 
 ---
+<!-- .slide: <%= bg("Cerquozzi-John_Baptist.jpg") %> -->
 If we are **beside ourselves**, it is for God <br>
 <i>(*ἐξέστημεν*: ecstasy, insanity)</i>
 
 [2 Corinthians 5:13a (ESV)](# "ref")
+[Michelangelo Cerquozzi, <br>"Saint John the Baptist Preaching in the Wilderness"](https://www.artuk.org/discover/artworks/saint-john-the-baptist-preaching-in-the-wilderness-2822 "caption")
 
 >>>
 + ancient Gr: **delirium** / insanity
@@ -119,10 +124,12 @@ If we are **beside ourselves**, it is for God <br>
   + because they value **image**:
 
 ---
+<!-- .slide: <%= bg("unsplash-Wa-gS5R58gA-group_silhouette.jpg") %> -->
 ... those who boast about **outward appearance** <br>
 and not about what is in the **heart**.
 
 [2 Corinthians 5:12 (ESV)](# "ref")
+[Tim Marshall, Piha Beach, NZ](https://unsplash.com/photos/Wa-gS5R58gA "caption")
 
 >>>
 + world says being successful means 
@@ -170,6 +177,7 @@ ______
   + (which now has its own controversy)
 
 ---
+<!-- .slide: <%= bg("Cerquozzi-John_Baptist.jpg") %> -->
 If we are beside ourselves, it is **for God**
 
 [2 Corinthians 5:13a (ESV)](# "ref")
@@ -181,6 +189,7 @@ If we are beside ourselves, it is **for God**
   + Christ **crucified**:
 
 ---
+<!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
 For the word of the cross is **folly** <br>
 to those who are **perishing**, 
 
@@ -188,6 +197,7 @@ but to us who are being **saved** <br>
 it is the **power of God**.
 
 [1 Corinthians 1:18 (ESV)](# "ref")
+[Aaron Burden](https://unsplash.com/photos/09AhDCedXF8 "caption")
 
 >>>
 + I would rather learn God's **foolishness**
@@ -197,7 +207,7 @@ it is the **power of God**.
 + so **school** doesn't matter? 
 
 ---
-<!-- .slide: <%= bg("unsplash-CPPFtCHY6mo-pray_bible.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-74TufExdP3Y-sunlit-road.jpg") %> -->
 For Christ's love **compels** us
 
 [2 Corinthians 5:14 (NIV)](# "ref")
@@ -208,10 +218,12 @@ For Christ's love **compels** us
 + but also...
 
 ---
+<!-- .slide: <%= bg("unsplash-UOwvwZ9Dy6w-hold_hands.jpg") %> -->
 If we are in our **right mind**, it is for you<br>
 <i>(*σωφρονοῦμεν*: salvation, sober)</i>
 
 [2 Corinthians 5:13b (ESV)](# "ref")
+[Nancy, France. Rémi Walle](https://unsplash.com/photos/UOwvwZ9Dy6w "caption")
 
 >>>
 + "right mind": **saved** thinking (salvation)
@@ -222,7 +234,9 @@ If we are in our **right mind**, it is for you<br>
 + transl. in Titus as "**self-controlled**":
 
 ---
-Likewise, urge the **younger** men to be **self-controlled**.
+<!-- .slide: <%= bg("unsplash-CPPFtCHY6mo-pray_bible.jpg") %> -->
+Likewise, urge the **younger** men <br>
+to be **self-controlled**.
 
 [7](# "ref")
 Show yourself in all respects to be <br>
@@ -234,6 +248,7 @@ and in your teaching show <br>
 and sound **speech**
 
 [Titus 2:6-8 (ESV)](# "ref")
+[Olivia Snow](https://unsplash.com/photos/CPPFtCHY6mo "caption")
 
 >>>
 + not that **algebra** is all that important!
@@ -244,10 +259,12 @@ and sound **speech**
   + **forgive** others as God forgave us
 
 ---
+<!-- .slide: <%= bg("unsplash-FKBg2JNYFFc-kid_rain.jpg") %> -->
 ... be **self-controlled**, ...<br>
 show **integrity**, **dignity**, and sound **speech**
 
 [Titus 2:6,7-8 (ESV)](# "ref")
+[Jordan Whitt](https://unsplash.com/photos/FKBg2JNYFFc "caption")
 
 >>>
 + even in **play**:
@@ -265,7 +282,7 @@ show **integrity**, **dignity**, and sound **speech**
 + **love** of Christ **holds** us
 
 ---
-[13](# "ref")
+<!-- .slide: <%= bg("unsplash-74TufExdP3Y-sunlit-road.jpg") %> -->
 For if we are **beside ourselves**, it is for **God**; <br>
 if we are in our **right mind**, it is for **you**.
 
@@ -274,3 +291,5 @@ For the **love** of Christ **controls** us
 
 [2 Corinthians 5:13-14 (ESV)](# "ref")
 
+---
+<!-- .slide: <%= bg("unsplash-74TufExdP3Y-sunlit-road.jpg") %> class="empty" -->
