@@ -1,8 +1,8 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-CPPFtCHY6mo-pray_bible.jpg") %> id="title" -->
 # Held Together
 ## 2 Corinthians 5:13-15
 
-[Ryan Hutton](https://unsplash.com/photos/Jztmx9yqjBw "caption")
+[Olivia Snow](https://unsplash.com/photos/CPPFtCHY6mo "caption")
 
 >>>
 + God's **love** for you is **greater** than:
@@ -18,6 +18,7 @@
 + school **theme** verse:
 
 ---
+<!-- .slide: <%= bg("unsplash-CPPFtCHY6mo-pray_bible.jpg") %> -->
 For **Christ's love** compels us
 
 [2 Corinthians 5:14 (NIV)](# "ref")
@@ -59,6 +60,7 @@ but for **him** who for their sake  <br>
 + how does this kind of love **change** me?
 
 ---
+<!-- .slide: <%= bg("unsplash-CPPFtCHY6mo-pray_bible.jpg") %> -->
 For Christ's love **compels** us <br>
 <i>(*συνέχει*: holds together)</i>
 
@@ -91,6 +93,7 @@ that means **fruitful labor** for me.
   + but **held together**
 
 ---
+<!-- .slide: <%= bg("unsplash-CPPFtCHY6mo-pray_bible.jpg") %> -->
 For Christ's love **compels** us <br>
 <i>(*συνέχει*: holds together)</i>
 
@@ -194,6 +197,7 @@ it is the **power of God**.
 + so **school** doesn't matter? 
 
 ---
+<!-- .slide: <%= bg("unsplash-CPPFtCHY6mo-pray_bible.jpg") %> -->
 For Christ's love **compels** us
 
 [2 Corinthians 5:14 (NIV)](# "ref")
