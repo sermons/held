@@ -55,11 +55,12 @@ but for **him** who for their sake  <br>
 [2 Corinthians 5:13-15 (p.2/2) (ESV)](# "ref")
 
 >>>
-+ **depth** of God's love:
++ this is God's **love**:
   + Jesus **died** for me
-  + **rose** to life for God
-+ that I might **live** for Him
+  + **rose** again to live for God
++ now I may **live** for Him
 + how does this kind of love **change** me?
+  + it **holds** me together:
 
 ---
 <!-- .slide: <%= bg("unsplash-CPPFtCHY6mo-pray_bible.jpg") %> -->
@@ -91,8 +92,8 @@ that means **fruitful labor** for me.
 [Noah Silliman](https://unsplash.com/photos/gzhyKEo_cbU "caption")
 
 >>>
-+ dying: be w/**Jesus**
-  + living: fruitful **labour**
++ dying is better: be w/**Jesus**
+  + living is necessary: fruitful **labour**
 + not **falling apart**
   + but **held together**
 
