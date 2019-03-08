@@ -42,8 +42,18 @@ For the **love** of Christ **compels** us <br>
 
 [2 Corinthians 5:14 (NKJV)](# "ref")
 
+>>>
++ not **compel** (push, motion)
++ keep **disparate**/competing parts 
+  + in **integral** whole
++ **fools** for God
+  + **wise** to serve others
++ cf Phil 1:23 **hard-pressed**:
+  + next life: **Christ**
+  + this life: fruitful **labour**
+
 ---
-If we are **beside ourselves** <br>
+If we are **beside ourselves**, it is for God <br>
 <i>(*ἐξέστημεν*: ecstasy, insanity)</i>
 
 [2 Corinthians 5:13a (ESV)](# "ref")
@@ -52,8 +62,10 @@ If we are **beside ourselves** <br>
 + ancient Gr: **delirium** / insanity
   + to commune with **divinity**
   + e.g., oracle at **Delphi**
-+ to **reject** the world's idea of **success**
-+ means being a **fool** in their eyes:
++ when we do not **pursue** the same things the world does
+  + **reject** the world's idea of **success**
++ they think we are **insane**
+  + because they value **image**:
 
 ---
 ... those who boast about **outward appearance** <br>
@@ -62,7 +74,24 @@ and not about what is in the **heart**.
 [2 Corinthians 5:12 (ESV)](# "ref")
 
 >>>
-+ 
++ world says success means **fame**
+  + money, **influence**
+  + having people **respect** you
++ willing to be fools for **God**
+  + not to **impress** others
+  + or even **prove** them wrong
+
+---
++ (Amy Carmichael)
++ (John Sung)
+
+>>>
++ willing to **leave** comfortable life
+  + to **serve** those **discarded** by society
++ willing to **throw** away our credentials
+  + to preach the **foolishness** of the cross
++ doesn't **matter** what others think
+  + e.g. friend gives you "A+"
 
 ---
 For the word of the cross is **folly** <br>
@@ -74,15 +103,10 @@ it is the **power of God**.
 [1 Corinthians 1:18 (ESV)](# "ref")
 
 >>>
-+ (Amy Carmichael)
-+ (John Sung)
-+ willing to be fools for **God**:
-  + doesn't **matter** what others think
-  + e.g. friend gives you "A+"
 + so **school** doesn't matter? 
 
 ---
-If we are in our **right mind**<br>
+If we are in our **right mind**, it is for you<br>
 <i>(*σωφρονοῦμεν*: salvation, sober)</i>
 
 [2 Corinthians 5:13b (ESV)](# "ref")
@@ -91,21 +115,12 @@ If we are in our **right mind**<br>
 + "right mind": **saved** thinking (salvation)
   + sober, considered
   + why **school**? skills, excellence
++ for **you**: to serve others
+  + equip to **teach**, encourage
 
 ---
 
 >>>
-+ for **you**: to serve others
-  + equip to **teach**, encourage
-+ **controls**: holds together
-  + not **compel** (push, motion)
-  + keep **disparate**/competing parts 
-    + in **integral** whole
-  + **fools** for God
-    + **wise** to serve others
-+ cf Phil 1:23 **hard-pressed**:
-  + next life: **Christ**
-  + this life: fruitful **labour**
 + even in **play**:
   + **purpose** on the playground
   + not to **grab** best activities for self
@@ -115,3 +130,8 @@ If we are in our **right mind**<br>
 ---
 <!-- .slide: data-background="white" -->
 # What **holds** you together? 
+
+>>>
++ whether we are rejected by the world as **fools**
++ or **sober**-minded, dilligently serving others
++ **love** of Christ **holds** us
