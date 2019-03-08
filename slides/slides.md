@@ -9,6 +9,12 @@
 + any **obstacle** before you
 + any **sin** within you
 + any **ambition** you could have for yourself
+
+---
+<!-- .slide: data-background="white" -->
+# How does God's love **change** you?
+
+>>>
 + school **theme** verse:
 
 ---
@@ -64,8 +70,32 @@ For Christ's love **compels** us <br>
 + keep **disparate**/competing parts 
   + in **integral** whole
 + cf Phil 1 **hard-pressed** (v23):
-  + dying: be w/**Jesus**
+
+---
+[23](# "ref")
+I am **hard pressed** between the two.
+
+My desire is to **depart** and be with Christ,<br>
+for that is far **better**. 
+
+[22](# "ref")
+If I am to **live** in the flesh, <br>
+that means **fruitful labor** for me. 
+
+[Philippians 1:23,22 (ESV)](# "ref")
+
+>>>
++ dying: be w/**Jesus**
   + living: fruitful **labour**
++ not **falling apart**
+
+---
+For Christ's love **compels** us <br>
+<i>(*συνέχει*: holds together)</i>
+
+[2 Corinthians 5:14 (NIV)](# "ref")
+
+>>>
 + on the **one hand**:
 
 ---
