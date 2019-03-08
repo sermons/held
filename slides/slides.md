@@ -88,6 +88,7 @@ that means **fruitful labor** for me.
 + dying: be w/**Jesus**
   + living: fruitful **labour**
 + not **falling apart**
+  + but **held together**
 
 ---
 For Christ's love **compels** us <br>
@@ -96,6 +97,7 @@ For Christ's love **compels** us <br>
 [2 Corinthians 5:14 (NIV)](# "ref")
 
 >>>
++ **what** two things are held together?
 + on the **one hand**:
 
 ---
@@ -156,7 +158,7 @@ and not about what is in the **heart**.
 + willing to **throw** away our credentials
   + to preach the **foolishness** of the cross
 + personal **revival** at seminary
-  + confined to **asylum** for half year
+  + confined to **asylum** for 6mo
   + where he read Bible **40x**
 + returning to China for **missions**:
   + threw diplomas **overboard**
@@ -165,13 +167,15 @@ ______
   + (which now has its own controversy)
 
 ---
-If we are **beside ourselves**, it is for God
+If we are beside ourselves, it is **for God**
 
 [2 Corinthians 5:13a (ESV)](# "ref")
 
 >>>
 + doesn't **matter** what others think
   + e.g. friend gives you "A+"
++ resolve to know **nothing** except
+  + Christ **crucified**:
 
 ---
 For the word of the cross is **folly** <br>
@@ -190,7 +194,7 @@ it is the **power of God**.
 + so **school** doesn't matter? 
 
 ---
-For **Christ's love** compels us
+For Christ's love **compels** us
 
 [2 Corinthians 5:14 (NIV)](# "ref")
 
@@ -211,7 +215,7 @@ If we are in our **right mind**, it is for you<br>
   + why **school**? skills, excellence
 + for **you**: to serve others
   + equip to **teach**, encourage
-+ "right mind" is transl. in Titus as "**self-controlled**":
++ transl. in Titus as "**self-controlled**":
 
 ---
 Likewise, urge the **younger** men to be **self-controlled**.
@@ -226,6 +230,20 @@ and in your teaching show <br>
 and sound **speech**
 
 [Titus 2:6-8 (ESV)](# "ref")
+
+>>>
++ not that **algebra** is all that important!
+  + but be **equipped** to do **good works**
++ school/work is a place to **practise** 
+  + showing God's love in **action**
++ in all things showing **self-control**
+  + **forgive** others as God forgave us
+
+---
+... be **self-controlled**, ...<br>
+show **integrity**, **dignity**, and sound **speech**
+
+[Titus 2:6,7-8 (ESV)](# "ref")
 
 >>>
 + even in **play**:
