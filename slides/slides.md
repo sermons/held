@@ -46,7 +46,11 @@ but for **him** who for their sake  <br>
 [2 Corinthians 5:13-15 (p.2/2) (ESV)](# "ref")
 
 >>>
-+ how does God's love **change** me?
++ **depth** of God's love:
+  + Jesus **died** for me
+  + **rose** to life for God
++ that I might **live** for Him
++ how does this kind of love **change** me?
 
 ---
 For Christ's love **compels** us <br>
@@ -59,7 +63,7 @@ For Christ's love **compels** us <br>
   + but **hold together**
 + keep **disparate**/competing parts 
   + in **integral** whole
-+ cf Phil 1:23 **hard-pressed**:
++ cf Phil 1 **hard-pressed** (v23):
   + dying: be w/**Jesus**
   + living: fruitful **labour**
 + on the **one hand**:
