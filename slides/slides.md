@@ -95,18 +95,47 @@ and not about what is in the **heart**.
 + but to pursue **God's** idea of success:
 
 ---
-(Amy Carmichael)
+## [Amy Carmichael](https://www.christianity.com/church/church-history/timeline/1901-2000/amy-carmichael-kindly-kidnapper-11630664.html)
+
+<div class="imgbox">
+<div>![Amy with children](https://sermons.seanho.com/img/fig/Amy_Carmichael_with_children2.jpg)</div>
+<div>![Amy in India](https://sermons.seanho.com/img/fig/Amy_Carmichael_India.jpg)</div>
+</div>
 
 >>>
-+ willing to **leave** comfortable life
++ willing to **leave** life of safety
 + to **serve** those **discarded** by society
+  + "**shawlies**" poor in Ireland
+  + "**temple** girls" in slavery in India
++ "If my attitude be one of **fear**, not **faith**,
+  + then I know nothing of **Calvary love**."
 
 ---
-(John Sung)
+## [Dr. John Sung](https://www.christianity.com/church/church-history/timeline/1901-2000/death-of-amazing-chinese-evangelist-john-sung-11630778.html)
+
+<div class="imgbox">
+<div>![John Sung](https://sermons.seanho.com/img/fig/john_sung.jpg)</div>
+<div>![Bethel Evangelistic Band](https://sermons.seanho.com/img/fig/john_sung-Bethel_Evangelistic_Band.jpg)</div>
+</div>
 
 >>>
 + willing to **throw** away our credentials
   + to preach the **foolishness** of the cross
++ personal **revival** at seminary
+  + confined to **asylum** for half year
+  + where he read Bible **40x**
++ returning to China for **missions**:
+  + threw diplomas **overboard**
+______
++ cofounded Little Flock (Local Church) with Watchman Nee
+  + (which now has its own controversy)
+
+---
+If we are **beside ourselves**, it is for God
+
+[2 Corinthians 5:13a (ESV)](# "ref")
+
+>>>
 + doesn't **matter** what others think
   + e.g. friend gives you "A+"
 
