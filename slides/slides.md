@@ -4,23 +4,26 @@
 [Olivia Snow](https://unsplash.com/photos/CPPFtCHY6mo "caption")
 
 >>>
-+ God's **love** for you is **greater** than:
-+ any **obstacle** before you
-+ any **sin** within you
-+ any **ambition** you could have for yourself
-
----
-<!-- .slide: data-background="white" -->
-# How does God's love **change** you?
-
->>>
-+ school **theme** verse:
++ [held.seanho.com](https://held.seanho.com/)
 
 ---
 <!-- .slide: <%= bg("stocksnap-36K89610LZ-cross_mtn_lake.jpg") %> -->
 For **Christ's love** compels us
 
 [2 Corinthians 5:14 (NIV)](# "ref")
+
+>>>
++ The **greatest** thing you can ever know
+  + is **God's love**
++ it is **greater** than:
+  + any **obstacle** before you
+  + any **sin** within you
+  + any **ambition** you could have for yourself
++ how does that **affect** us?
+
+---
+<!-- .slide: data-background="white" -->
+# How does God's love **change** you?
 
 >>>
 + knowing that God's love is **enough** means:
