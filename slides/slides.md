@@ -55,12 +55,10 @@ but for **him** who for their sake  <br>
 [2 Corinthians 5:13-15 (p.2/2) (ESV)](# "ref")
 
 >>>
-+ this is God's **love**:
-  + Jesus **died** for me
-  + **rose** again to live for God
-+ now I may **live** for Him
 + how does this kind of love **change** me?
-  + it **holds** me together:
+  + it **holds** me together
++ that I may **live** for Him:
+
 
 ---
 <!-- .slide: <%= bg("unsplash-CPPFtCHY6mo-pray_bible.jpg") %> -->
@@ -74,7 +72,8 @@ For the love of Christ **controls** us <br>
   + but **hold together**
 + keep **disparate**/competing parts 
   + in **integral** whole
-+ cf Phil 1 **hard-pressed** (v23):
++ same word in Phil 1, Paul thinking
+  + is it better to **live** or **die**?
 
 ---
 <!-- .slide: <%= bg("unsplash-gzhyKEo_cbU-alone_window.jpg") %> -->
@@ -95,6 +94,7 @@ that means **fruitful labor** for me.
 + dying is better: be w/**Jesus**
   + living is necessary: fruitful **labour**
 + not **falling apart**
+  + not **stressed** out
   + but **held together**
 
 ---
@@ -119,10 +119,9 @@ If we are **beside ourselves**, it is for God <br>
 + ancient Gr: **delirium** / insanity
   + to commune with **divinity**
   + e.g., oracle at **Delphi**
-+ when we do not **pursue** the same things the world does
-  + **reject** the world's idea of **success**
-+ they think we are **insane**
-  + because they value **image**:
++ when we don't **pursue** what world pursues
+  + they'll think we're **insane**
++ world says being **successful** means
 
 ---
 <!-- .slide: <%= bg("unsplash-Wa-gS5R58gA-group_silhouette.jpg") %> -->
@@ -133,10 +132,21 @@ and not about what is in the **heart**.
 [Tim Marshall, Piha Beach, NZ](https://unsplash.com/photos/Wa-gS5R58gA "caption")
 
 >>>
-+ world says being successful means 
++ being "**beautiful**"
   + fame, money, **influence**
   + having people **respect** you
-+ are we willing to be fools for **God**
++ but if we have **God's love**
+  + it doesn't **matter** if people like us
++ e.g. friend gives you "A+"
+
+---
+<!-- .slide: <%= bg("Cerquozzi-John_Baptist.jpg") %> -->
+If we are beside ourselves, it is **for God**
+
+[2 Corinthians 5:13a (ESV)](# "ref")
+
+>>>
++ are we willing to be deemed **insane**
   + not to **impress** others
   + or even to **prove** them wrong
 + but to pursue **God's** idea of success:
@@ -179,18 +189,6 @@ ______
   + (which has its own controversy)
 
 ---
-<!-- .slide: <%= bg("Cerquozzi-John_Baptist.jpg") %> -->
-If we are beside ourselves, it is **for God**
-
-[2 Corinthians 5:13a (ESV)](# "ref")
-
->>>
-+ doesn't **matter** what others think
-  + e.g. friend gives you "A+"
-+ resolve to know **nothing** except
-  + Christ **crucified**:
-
----
 <!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
 For the word of the cross is **folly** <br>
 to those who are **perishing**, 
@@ -205,8 +203,8 @@ it is the **power of God**.
 + I would rather learn God's **foolishness**
   + childlike **trust** in Jesus' cross
 + than man's so-called **wisdom**
-  + useless factoids that only **puff up**
-+ so **school** doesn't matter? 
+  + more knowledge &rArr; more **pride**
++ so I should just quit **school** then? 
 
 ---
 <!-- .slide: <%= bg("unsplash-CPPFtCHY6mo-pray_bible.jpg") %> -->
@@ -215,10 +213,9 @@ For the love of Christ **controls** us
 [2 Corinthians 5:14 (ESV)](# "ref")
 
 >>>
-+ **held together** in two ways:
-+ willing to be **ridiculed** 
-  + as a **fool** for Christ
-+ but also...
++ nope! God's love **holds** us together
+  + in **foolishness** for God,
++ but also in **wisdom** for others:
 
 ---
 <!-- .slide: <%= bg("unsplash-UOwvwZ9Dy6w-hold_hands.jpg") %> -->
@@ -231,9 +228,11 @@ If we are in our **right mind**, it is for you<br>
 >>>
 + **saved** thinking (salvation)
   + sober, considered
-  + why **school**? skills, excellence
++ **school**: skills, excellence
+  + to what **purpose**?
 + for **you**: to serve others
-  + equip to **teach**, encourage
+  + **help**, encourage
+  + that they would **know** who God is
 + transl. in Titus as "**self-controlled**":
 
 ---
@@ -258,9 +257,8 @@ and sound **speech**
   + but be **equipped** to do **good works**
 + school/work is a place to **practise** 
   + showing God's love in **action**
-+ in all things showing **self-control**
   + **forgive** others as God forgave us
-+ not just at **school**:
++ even when we're **playing**:
 
 ---
 <!-- .slide: <%= bg("unsplash-VNjNtdu0yCw-kids_hug.jpg") %> -->
@@ -271,8 +269,11 @@ show **integrity**, **dignity**, and sound **speech**
 [Joshua Clay](https://unsplash.com/photos/VNjNtdu0yCw "caption")
 
 >>>
-+ even in **play**:
-  + **purpose** on the playground
++ e.g. Funky Monkey on weekend:
+  + kids **steal** balls
+  + **cut in line** for slide
+  + "mom, that's how it is here"
++ **purpose** on the playground
 + not to **grab** best activities for self
   + but to show Christ's **love** to others
 
