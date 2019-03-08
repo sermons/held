@@ -135,7 +135,7 @@ and not about what is in the **heart**.
 + world says being successful means 
   + fame, money, **influence**
   + having people **respect** you
-+ willing to be fools for **God**
++ are we willing to be fools for **God**
   + not to **impress** others
   + or even to **prove** them wrong
 + but to pursue **God's** idea of success:
@@ -153,8 +153,9 @@ and not about what is in the **heart**.
 + to **serve** those **discarded** by society
   + "**shawlies**" poor in Ireland
   + "**temple** girls" in slavery in India
-+ "If my attitude be one of **fear**, not **faith**,
-  + then I know nothing of **Calvary love**."
++ "If my attitude be one of **fear**,
+  + not **faith**, then I know nothing 
+  + of **Calvary love**."
 
 ---
 ## [Dr. John Sung](https://www.christianity.com/church/church-history/timeline/1901-2000/death-of-amazing-chinese-evangelist-john-sung-11630778.html)
@@ -166,7 +167,7 @@ and not about what is in the **heart**.
 
 >>>
 + willing to **throw** away our credentials
-  + to preach the **foolishness** of the cross
+  + to preach **foolishness** of cross
 + personal **revival** at seminary
   + confined to **asylum** for 6mo
   + where he read Bible **40x**
@@ -174,7 +175,7 @@ and not about what is in the **heart**.
   + threw diplomas **overboard**
 ______
 + cofounded Little Flock (Local Church) with Watchman Nee
-  + (which now has its own controversy)
+  + (which has its own controversy)
 
 ---
 <!-- .slide: <%= bg("Cerquozzi-John_Baptist.jpg") %> -->
@@ -214,7 +215,8 @@ For Christ's love **compels** us
 
 >>>
 + **held together** in two ways:
-+ willing to be **ridiculed** as a fool for Christ
++ willing to be **ridiculed** 
+  + as a **fool** for Christ
 + but also...
 
 ---
@@ -226,7 +228,7 @@ If we are in our **right mind**, it is for you<br>
 [Nancy, France. Rémi Walle](https://unsplash.com/photos/UOwvwZ9Dy6w "caption")
 
 >>>
-+ "right mind": **saved** thinking (salvation)
++ **saved** thinking (salvation)
   + sober, considered
   + why **school**? skills, excellence
 + for **you**: to serve others
@@ -257,6 +259,7 @@ and sound **speech**
   + showing God's love in **action**
 + in all things showing **self-control**
   + **forgive** others as God forgave us
++ not just at **school**:
 
 ---
 <!-- .slide: <%= bg("unsplash-VNjNtdu0yCw-kids_hug.jpg") %> -->
@@ -277,8 +280,8 @@ show **integrity**, **dignity**, and sound **speech**
 # What **holds** you together? 
 
 >>>
-+ whether we are rejected by the world as **fools**
-+ or **sober**-minded, dilligently serving others
++ rejected by the world as **fools**
++ **sober**-mind, dilligent serving others
 + **love** of Christ **holds** us
 
 ---
