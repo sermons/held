@@ -135,3 +135,14 @@ If we are in our **right mind**, it is for you<br>
 + whether we are rejected by the world as **fools**
 + or **sober**-minded, dilligently serving others
 + **love** of Christ **holds** us
+
+---
+[13](# "ref")
+For if we are **beside ourselves**, it is for **God**; <br>
+if we are in our **right mind**, it is for **you**.
+
+[14](# "ref")
+For the **love** of Christ **controls** us
+
+[2 Corinthians 5:13-14 (ESV)](# "ref")
+
