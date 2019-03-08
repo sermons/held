@@ -1,8 +1,7 @@
-<!-- .slide: <%= bg("unsplash-74TufExdP3Y-sunlit-road.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-CPPFtCHY6mo-pray_bible.jpg") %> id="title" -->
 # Held Together
 ## 2 Corinthians 5:13-15
-
-[Chuckanut Mountain, US.  Patrick Fore](https://unsplash.com/photos/74TufExdP3Y "caption")
+[Olivia Snow](https://unsplash.com/photos/CPPFtCHY6mo "caption")
 
 >>>
 + God's **love** for you is **greater** than:
@@ -18,7 +17,7 @@
 + school **theme** verse:
 
 ---
-<!-- .slide: <%= bg("unsplash-74TufExdP3Y-sunlit-road.jpg") %> -->
+<!-- .slide: <%= bg("stocksnap-36K89610LZ-cross_mtn_lake.jpg") %> -->
 For **Christ's love** compels us
 
 [2 Corinthians 5:14 (NIV)](# "ref")
@@ -60,12 +59,11 @@ but for **him** who for their sake  <br>
 + how does this kind of love **change** me?
 
 ---
-<!-- .slide: <%= bg("unsplash-2PODhmrvLik-heart_sunset.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-CPPFtCHY6mo-pray_bible.jpg") %> -->
 For Christ's love **compels** us <br>
 <i>(*συνέχει*: holds together)</i>
 
 [2 Corinthians 5:14 (NIV)](# "ref")
-[Mayur Gala](https://unsplash.com/photos/2PODhmrvLik "caption")
 
 >>>
 + not **compel** (push, motion)
@@ -96,9 +94,8 @@ that means **fruitful labor** for me.
   + but **held together**
 
 ---
-<!-- .slide: <%= bg("unsplash-2PODhmrvLik-heart_sunset.jpg") %> -->
-For Christ's love **compels** us <br>
-<i>(*συνέχει*: holds together)</i>
+<!-- .slide: <%= bg("unsplash-CPPFtCHY6mo-pray_bible.jpg") %> -->
+For Christ's love **compels** us
 
 [2 Corinthians 5:14 (NIV)](# "ref")
 
@@ -207,7 +204,7 @@ it is the **power of God**.
 + so **school** doesn't matter? 
 
 ---
-<!-- .slide: <%= bg("unsplash-74TufExdP3Y-sunlit-road.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-CPPFtCHY6mo-pray_bible.jpg") %> -->
 For Christ's love **compels** us
 
 [2 Corinthians 5:14 (NIV)](# "ref")
@@ -234,7 +231,7 @@ If we are in our **right mind**, it is for you<br>
 + transl. in Titus as "**self-controlled**":
 
 ---
-<!-- .slide: <%= bg("unsplash-CPPFtCHY6mo-pray_bible.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-5fNmWej4tAA-laptops_work.jpg") %> -->
 Likewise, urge the **younger** men <br>
 to be **self-controlled**.
 
@@ -248,7 +245,7 @@ and in your teaching show <br>
 and sound **speech**
 
 [Titus 2:6-8 (ESV)](# "ref")
-[Olivia Snow](https://unsplash.com/photos/CPPFtCHY6mo "caption")
+[Grenoble, France. Helloquence](https://unsplash.com/photos/5fNmWej4tAA "caption")
 
 >>>
 + not that **algebra** is all that important!
@@ -259,12 +256,12 @@ and sound **speech**
   + **forgive** others as God forgave us
 
 ---
-<!-- .slide: <%= bg("unsplash-FKBg2JNYFFc-kid_rain.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-VNjNtdu0yCw-kids_hug.jpg") %> -->
 ... be **self-controlled**, ...<br>
 show **integrity**, **dignity**, and sound **speech**
 
 [Titus 2:6,7-8 (ESV)](# "ref")
-[Jordan Whitt](https://unsplash.com/photos/FKBg2JNYFFc "caption")
+[Joshua Clay](https://unsplash.com/photos/VNjNtdu0yCw "caption")
 
 >>>
 + even in **play**:
@@ -282,7 +279,7 @@ show **integrity**, **dignity**, and sound **speech**
 + **love** of Christ **holds** us
 
 ---
-<!-- .slide: <%= bg("unsplash-74TufExdP3Y-sunlit-road.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-CPPFtCHY6mo-pray_bible.jpg") %> -->
 For if we are **beside ourselves**, it is for **God**; <br>
 if we are in our **right mind**, it is for **you**.
 
@@ -292,4 +289,4 @@ For the **love** of Christ **controls** us
 [2 Corinthians 5:13-14 (ESV)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-74TufExdP3Y-sunlit-road.jpg") %> class="empty" -->
+<!-- .slide: <%= bg("unsplash-CPPFtCHY6mo-pray_bible.jpg") %> class="empty" -->
