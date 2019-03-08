@@ -177,15 +177,27 @@ If we are in our **right mind**, it is for you<br>
   + why **school**? skills, excellence
 + for **you**: to serve others
   + equip to **teach**, encourage
++ "right mind" is transl. in Titus as "**self-controlled**":
 
 ---
+Likewise, urge the **younger** men to be **self-controlled**.
+
+[7](# "ref")
+Show yourself in all respects to be <br>
+a model of **good works**,
+
+and in your teaching show <br>
+**integrity**, **dignity**, 
+[8](# "ref")
+and sound **speech**
+
+[Titus 2:6-8 (ESV)](# "ref")
 
 >>>
 + even in **play**:
   + **purpose** on the playground
 + not to **grab** best activities for self
   + but to show Christ's **love** to others
-
 
 ---
 <!-- .slide: data-background="white" -->
