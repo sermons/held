@@ -6,9 +6,21 @@
 
 >>>
 + God's **love** for you is **greater** than:
-  + any **obstacle** before you
-  + any **sin** within you
-  + any **ambition** you could have for yourself
++ any **obstacle** before you
++ any **sin** within you
++ any **ambition** you could have for yourself
++ school **theme** verse:
+
+---
+For **Christ's love** compels us
+
+[2 Corinthians 5:14 (NIV)](# "ref")
+
+>>>
++ knowing that God's love is **enough** means:
++ don't need to **worry** what others think of you
++ work hard w/**purpose** to share God's love
++ **read** together in context, v13-15:
 
 ---
 [13](# "ref")
@@ -37,10 +49,10 @@ but for **him** who for their sake  <br>
 + 2 **competing** forces:
 
 ---
-For the **love** of Christ **compels** us <br>
+For Christ's love **compels** us <br>
 <i>(*συνέχει*: holds together)</i>
 
-[2 Corinthians 5:14 (NKJV)](# "ref")
+[2 Corinthians 5:14 (NIV)](# "ref")
 
 >>>
 + not **compel** (push, motion)
