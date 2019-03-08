@@ -46,7 +46,7 @@ but for **him** who for their sake  <br>
 [2 Corinthians 5:13-15 (p.2/2) (ESV)](# "ref")
 
 >>>
-+ 2 **competing** forces:
++ how does God's love **change** me?
 
 ---
 For Christ's love **compels** us <br>
@@ -56,13 +56,13 @@ For Christ's love **compels** us <br>
 
 >>>
 + not **compel** (push, motion)
+  + but **hold together**
 + keep **disparate**/competing parts 
   + in **integral** whole
-+ **fools** for God
-  + **wise** to serve others
 + cf Phil 1:23 **hard-pressed**:
-  + next life: **Christ**
-  + this life: fruitful **labour**
+  + dying: be w/**Jesus**
+  + living: fruitful **labour**
++ on the **one hand**:
 
 ---
 If we are **beside ourselves**, it is for God <br>
@@ -86,20 +86,25 @@ and not about what is in the **heart**.
 [2 Corinthians 5:12 (ESV)](# "ref")
 
 >>>
-+ world says success means **fame**
-  + money, **influence**
++ world says being successful means 
+  + fame, money, **influence**
   + having people **respect** you
 + willing to be fools for **God**
   + not to **impress** others
-  + or even **prove** them wrong
+  + or even to **prove** them wrong
++ but to pursue **God's** idea of success:
 
 ---
-+ (Amy Carmichael)
-+ (John Sung)
+(Amy Carmichael)
 
 >>>
 + willing to **leave** comfortable life
-  + to **serve** those **discarded** by society
++ to **serve** those **discarded** by society
+
+---
+(John Sung)
+
+>>>
 + willing to **throw** away our credentials
   + to preach the **foolishness** of the cross
 + doesn't **matter** what others think
@@ -115,7 +120,21 @@ it is the **power of God**.
 [1 Corinthians 1:18 (ESV)](# "ref")
 
 >>>
++ I would rather learn God's **foolishness**
+  + childlike **trust** in Jesus' cross
++ than man's so-called **wisdom**
+  + useless factoids that only **puff up**
 + so **school** doesn't matter? 
+
+---
+For **Christ's love** compels us
+
+[2 Corinthians 5:14 (NIV)](# "ref")
+
+>>>
++ **held together** in two ways:
++ willing to be **ridiculed** as a fool for Christ
++ but also...
 
 ---
 If we are in our **right mind**, it is for you<br>
@@ -135,7 +154,7 @@ If we are in our **right mind**, it is for you<br>
 >>>
 + even in **play**:
   + **purpose** on the playground
-  + not to **grab** best activities for self
++ not to **grab** best activities for self
   + but to show Christ's **love** to others
 
 
