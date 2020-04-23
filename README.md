@@ -1,7 +1,7 @@
 # Held Together
 ## 2 Corinthians 5:13-15
 
-[![Build status](https://travis-ci.org/sermons/held.svg)](https://travis-ci.org/sermons/held)
+[![Build status](https://api.travis-ci.org/sermons/held.svg)](https://travis-ci.org/github/sermons/held)
 [![Node deps](https://david-dm.org/sermons/held.svg)](https://david-dm.org/sermons/held)
 [![Node devDeps](https://david-dm.org/sermons/held/dev-status.svg)](https://david-dm.org/sermons/held?type=dev)
 
