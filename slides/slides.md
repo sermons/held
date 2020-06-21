@@ -154,10 +154,15 @@ If we are beside ourselves, it is **for God**
 ---
 ## [Amy Carmichael](https://www.christianity.com/church/church-history/timeline/1901-2000/amy-carmichael-kindly-kidnapper-11630664.html)
 
-<div class="imgbox">
-<div>![Amy with children](https://sermons.seanho.com/img/fig/Amy_Carmichael_with_children2.jpg)</div>
-<div>![Amy in India](https://sermons.seanho.com/img/fig/Amy_Carmichael_India.jpg)</div>
-</div>
+<div class="imgbox"><div>
+
+![Amy with children](https://sermons.seanho.com/img/fig/Amy_Carmichael_with_children2.jpg)
+
+</div><div>
+
+![Amy in India](https://sermons.seanho.com/img/fig/Amy_Carmichael_India.jpg)
+
+</div></div>
 
 >>>
 + willing to **leave** life of safety
@@ -171,10 +176,15 @@ If we are beside ourselves, it is **for God**
 ---
 ## [Dr. John Sung](https://www.christianity.com/church/church-history/timeline/1901-2000/death-of-amazing-chinese-evangelist-john-sung-11630778.html)
 
-<div class="imgbox">
-<div>![John Sung](https://sermons.seanho.com/img/fig/john_sung.jpg)</div>
-<div>![Bethel Evangelistic Band](https://sermons.seanho.com/img/fig/john_sung-Bethel_Evangelistic_Band.jpg)</div>
-</div>
+<div class="imgbox"><div>
+
+![John Sung](https://sermons.seanho.com/img/fig/john_sung.jpg)
+
+</div><div>
+
+![Bethel Evangelistic Band](https://sermons.seanho.com/img/fig/john_sung-Bethel_Evangelistic_Band.jpg)
+
+</div></div>
 
 >>>
 + willing to **throw** away our credentials
